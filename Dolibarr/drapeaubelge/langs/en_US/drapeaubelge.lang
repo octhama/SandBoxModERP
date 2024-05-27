@@ -1,0 +1,54 @@
+# Copyright (C) 2024 Hasler Tehou <kuassi.tehou@gmail.com>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+#
+# Generic
+#
+
+# Module label 'ModuleDrapeaubelgeName'
+ModuleDrapeaubelgeName = Drapeaubelge
+# Module description 'ModuleDrapeaubelgeDesc'
+ModuleDrapeaubelgeDesc = Drapeaubelge description
+
+#
+# Admin page
+#
+DrapeaubelgeSetup = Drapeaubelge setup
+Settings = Settings
+DrapeaubelgeSetupPage = Drapeaubelge setup page
+DRAPEAUBELGE_MYPARAM1 = My param 1
+DRAPEAUBELGE_MYPARAM1Tooltip = My param 1 tooltip
+DRAPEAUBELGE_MYPARAM2=My param 2
+DRAPEAUBELGE_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+DrapeaubelgeAbout = About Drapeaubelge
+DrapeaubelgeAboutPage = Drapeaubelge about page
+
+#
+# Sample page
+#
+DrapeaubelgeArea = Home Drapeaubelge
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
